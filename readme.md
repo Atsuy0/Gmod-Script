@@ -1,18 +1,3 @@
-<h1> WELCOME TO THE PROJECT "BLUEPRINT" 👋 </h2>
+<h1> WELCOME TO "BLUEPRINT" 👋 </h2>
 
-<p> ⚠️ The BluePrint project is being redone, please wait...</p>
-
-```
-                    _________________________________________________
-            /|     |                                                 |
-            ||     |                                                 |
-       .----|-----,|                   BY ATSUYO                     |
-       ||  ||   ==||                                                 |
-  .-----'--'|   ==||                                                 |
-  |)-      ~|     ||_________________________________________________|
-  | ___     |     |____...==..._  >\______________________________|
- [_/.-.\"--"-------- //.-.  .-.\\/   |/            \\ .-.  .-. //
-   ( o )`==="""""""""`( o )( o )     o              `( o )( o )` 
-    '-'                '-'  '-'                       '-'  '-'
-
-```
+<p> ⚠️ BluePrint is a project that brings together all of Atsuyo's Lua creations</p>
