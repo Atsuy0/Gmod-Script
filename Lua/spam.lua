@@ -1,11 +1,12 @@
-CreateClientConVar("atsuyo_spam", 0, true, false)
+local spammer = {
+"---------------------------------------", 
+"This server was spammed by BluePrint", 
+"https://github.com/atsuyo1/BluePrint", 
+"Download Blue Print Free !", 
+"---------------------------------------", 
+}
 
-function Flashspam()
-	if GetConVar("atsuyo_spam"):GetInt() == 1 then
-		if input.IsKeyDown(KEY_H) then
-			RunConsoleCommand("impulse", "100")
-			return end
-	end
-end
+command.Add( "atsuyo_spam" , function()
+LocalPlayer():ConCommand("say // " ..table.Random(spammer).. "")
 
-hook.Add("Think", "Flspam", Flashspam )
+end )
