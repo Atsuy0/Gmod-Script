@@ -1,6 +1,6 @@
 <h1> WELCOME TO THE PROJECT "BLUEPRINT" 👋 </h2>
 
-<p> ⚠️ The BluePrint project is being redone... Please wait.</p>
+<p> ⚠️ The BluePrint project is being redone, please wait...</p>
 
 ```
                     _________________________________________________
