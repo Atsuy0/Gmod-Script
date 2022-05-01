@@ -7,6 +7,6 @@ local spammer = {
 }
 
 command.Add( "atsuyo_spam" , function()
-LocalPlayer():ConCommand("say // " ..table.Random(spammer).. "")
+LocalPlayer():ConCommand("say // " ..(spammer).. "")
 
 end )
